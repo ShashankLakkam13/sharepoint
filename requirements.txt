@@ -1,0 +1,4 @@
+requests>=2.31.0
+msal>=1.23.0
+# Optional: install only if your corporate network intercepts SSL
+pip-system-certs>=4.0.0
